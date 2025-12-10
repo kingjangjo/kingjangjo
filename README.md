@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
 <!--
 **kingjangjo/kingjangjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
