@@ -33,6 +33,6 @@ public class DeveloperProfile : MonoBehaviour
 }
 ```
 
-![](https://profile.renyaa.com/counter/kingjangjo)
-
 [![](https://profile.renyaa.com/discord/927168629747904522)](https://discord.com/users/927168629747904522)
+
+![](https://profile.renyaa.com/counter/kingjangjo)
