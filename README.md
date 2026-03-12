@@ -34,3 +34,5 @@ public class DeveloperProfile : MonoBehaviour
 ```
 
 ![](https://profile.renyaa.com/counter/kingjangjo)
+
+![](https://profile.renyaa.com/discord/927168629747904522)
